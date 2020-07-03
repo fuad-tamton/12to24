@@ -1,6 +1,6 @@
 {
   "name": "12to24",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -12,6 +12,10 @@
     "time-formatter",
     "time-converter"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fuad-tamton/12to24.git"
+  },
   "author": "",
   "license": "ISC"
 }

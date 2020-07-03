@@ -43,5 +43,3 @@ function convetTo12({hour,minute,meridiem}){
 module.exports={
   formatTime
 }
-
-console.log(formatTime('12 00 am',{to12:false}));
